@@ -19,24 +19,24 @@
 
 이에 BARO는 장소와 시간을 함께 조율하는 새로운 방식을 제공합니다.
 
-- **🚀 어디로 향하든 바로**  
+## 🚀 어디로 향하든 바로
   - 약속 생성부터 정리까지  
-  - ![image](https://github.com/user-attachments/assets/a3d1ee87-2fc2-41a4-9cf0-e7bfa30f3b78)  
-  - ![image](https://github.com/user-attachments/assets/33e42555-5b9d-4407-87b4-00878032bea8)  
+   ![image](https://github.com/user-attachments/assets/a3d1ee87-2fc2-41a4-9cf0-e7bfa30f3b78)  
+   ![image](https://github.com/user-attachments/assets/33e42555-5b9d-4407-87b4-00878032bea8)  
 
-- **⏰ 언제든지 바로**  
+## ⏰ 언제든지 바로
   - 간단하게 약속 모임을  
-  - ![image](https://github.com/user-attachments/assets/6258e340-65fc-4fa1-8e5e-8cc13894cad8)  
+   ![image](https://github.com/user-attachments/assets/6258e340-65fc-4fa1-8e5e-8cc13894cad8)  
 
-- **✅ 복잡한 것들을 All 바로**  
+## ✅ 복잡한 것들을 All 바로 
   - 가능한 시간을 자동으로 체크  
-  - ![image](https://github.com/user-attachments/assets/fd69f337-06ef-46b1-aed6-34fd9e9c9316)  
+   ![image](https://github.com/user-attachments/assets/fd69f337-06ef-46b1-aed6-34fd9e9c9316)  
 
-- **👆 모두가 만날 때 원하는 바로**  
+## 👆 모두가 만날 때 원하는 바로  
   - 여러 조건의 장소를 터치 한 번에 조회  
-  - ![image](https://github.com/user-attachments/assets/0a162e0b-8a60-48ac-b2d9-b7731496b16e)  
+   ![image](https://github.com/user-attachments/assets/0a162e0b-8a60-48ac-b2d9-b7731496b16e)  
 
-- **📍 모두가 함께 바로**  
+## 📍 모두가 함께 바로
   - 모임과 방문을 가치 있게 리뷰  
-  - ![image](https://github.com/user-attachments/assets/218453be-fb9f-4566-bfcc-e201a8cac655)  
+   ![image](https://github.com/user-attachments/assets/218453be-fb9f-4566-bfcc-e201a8cac655)  
 
