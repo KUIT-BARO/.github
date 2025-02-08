@@ -27,7 +27,8 @@
 ## ⏰ 언제든지 바로
   - 간단하게 약속 모임을 생성할 수 있도록 돕습니다.
   <br>
-  <img src="https://github.com/user-attachments/assets/6258e340-65fc-4fa1-8e5e-8cc13894cad8" width="200">  
+  <img src="https://github.com/user-attachments/assets/60e48e90-9257-4c22-a49c-cc5057677015" width="200">
+
 <br>
 
 ## ✅ 복잡한 것들을 All 바로 
