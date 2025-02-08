@@ -25,7 +25,6 @@
   - 약속 생성부터 정리까지 한번에 제공합니다. 
   <br>
   <img src="https://github.com/user-attachments/assets/a3d1ee87-2fc2-41a4-9cf0-e7bfa30f3b78" width="200">  
-  <br>
   <img src="https://github.com/user-attachments/assets/33e42555-5b9d-4407-87b4-00878032bea8" width="200">  
 
 ## ⏰ 언제든지 바로
