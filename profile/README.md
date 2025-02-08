@@ -35,7 +35,9 @@
 ## ✅ 복잡한 것들을 All 바로 
   - 가능한 시간을 자동으로 체크합니다.
   <br>
-  <img src="https://github.com/user-attachments/assets/fd69f337-06ef-46b1-aed6-34fd9e9c9316" width="200">  
+  <img src="https://github.com/user-attachments/assets/fd69f337-06ef-46b1-aed6-34fd9e9c9316" width="200">
+  <img src="https://github.com/user-attachments/assets/ae7e4dec-92f0-4e31-a164-9b13bbe52f17" width="200">
+
 
 ## 👆 모두가 만날 때 원하는 바로  
   - 여러 조건을 만족하는 장소를 터치 한 번에 제공합니다.
